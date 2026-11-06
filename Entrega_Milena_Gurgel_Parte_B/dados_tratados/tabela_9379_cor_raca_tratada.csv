@@ -1,0 +1,1681 @@
+﻿tabela,nivel,cod,territorio,sigla_uf,regiao,tipo_recorte,recorte,ano,sexo,horas
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2016,Total,16.7
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2016,Homens,11.1
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2016,Mulheres,21.1
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2017,Total,16.5
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2017,Homens,10.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2017,Mulheres,21.0
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2018,Total,16.8
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2018,Homens,10.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2018,Mulheres,21.5
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2019,Total,16.8
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2019,Homens,11.0
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2019,Mulheres,21.6
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2022,Total,17.0
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2022,Homens,11.7
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Total,2022,Mulheres,21.3
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2016,Total,16.5
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2016,Homens,11.0
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2016,Mulheres,20.7
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2017,Total,16.3
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2017,Homens,10.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2017,Mulheres,20.5
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2018,Total,16.5
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2018,Homens,10.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2018,Mulheres,21.0
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2019,Total,16.4
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2019,Homens,10.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2019,Mulheres,20.8
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2022,Total,16.5
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2022,Homens,11.7
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Branca,2022,Mulheres,20.4
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2016,Total,16.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2016,Homens,11.3
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2016,Mulheres,21.5
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2017,Total,17.1
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2017,Homens,11.6
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2017,Mulheres,21.8
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2018,Total,17.1
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2018,Homens,11.3
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2018,Mulheres,22.2
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2019,Total,16.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2019,Homens,11.2
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2019,Mulheres,21.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2022,Total,17.1
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2022,Homens,11.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Preta,2022,Mulheres,21.6
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2016,Total,16.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2016,Homens,11.0
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2016,Mulheres,21.4
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2017,Total,16.7
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2017,Homens,10.7
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2017,Mulheres,21.4
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2018,Total,16.9
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2018,Homens,10.8
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2018,Mulheres,21.8
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2019,Total,17.2
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2019,Homens,11.0
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2019,Mulheres,22.2
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2022,Total,17.4
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2022,Homens,11.7
+9379,BR,1,Brasil,BR,Brasil,Cor ou raça,Parda,2022,Mulheres,22.1
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2016,Total,16.1
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2016,Homens,10.9
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2016,Mulheres,20.2
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2017,Total,15.2
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2017,Homens,9.9
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2017,Mulheres,19.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2018,Total,15.3
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2018,Homens,10.2
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2018,Mulheres,19.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2019,Total,16.5
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2019,Homens,11.2
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2019,Mulheres,21.1
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2022,Total,17.0
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2022,Homens,12.4
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Total,2022,Mulheres,20.9
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2016,Total,16.0
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2016,Homens,11.0
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2016,Mulheres,19.4
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2017,Total,15.5
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2017,Homens,10.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2017,Mulheres,19.5
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2018,Total,14.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2018,Homens,9.5
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2018,Mulheres,18.9
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2019,Total,15.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2019,Homens,10.4
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2019,Mulheres,20.1
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2022,Total,16.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2022,Homens,12.1
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Branca,2022,Mulheres,20.4
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2016,Total,16.1
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2016,Homens,11.1
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2016,Mulheres,20.4
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2017,Total,15.8
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2017,Homens,10.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2017,Mulheres,20.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2018,Total,14.6
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2018,Homens,8.9
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2018,Mulheres,19.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2019,Total,16.8
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2019,Homens,11.2
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2019,Mulheres,23.0
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2022,Total,17.4
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2022,Homens,11.9
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Preta,2022,Mulheres,23.6
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2016,Total,16.2
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2016,Homens,10.8
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2016,Mulheres,20.6
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2017,Total,15.0
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2017,Homens,9.5
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2017,Mulheres,19.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2018,Total,15.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2018,Homens,10.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2018,Mulheres,20.0
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2019,Total,16.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2019,Homens,11.5
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2019,Mulheres,21.4
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2022,Total,17.1
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2022,Homens,12.7
+9379,UF,11,Rondônia,RO,Norte,Cor ou raça,Parda,2022,Mulheres,20.7
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2016,Total,13.3
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2016,Homens,9.4
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2016,Mulheres,16.4
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2017,Total,13.0
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2017,Homens,9.2
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2017,Mulheres,16.1
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2018,Total,15.3
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2018,Homens,10.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2018,Mulheres,19.2
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2019,Total,16.7
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2019,Homens,11.7
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2019,Mulheres,21.1
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2022,Total,13.6
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2022,Homens,9.9
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Total,2022,Mulheres,16.6
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2016,Total,13.0
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2016,Homens,9.3
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2016,Mulheres,15.6
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2017,Total,12.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2017,Homens,9.1
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2017,Mulheres,15.5
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2018,Total,14.6
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2018,Homens,10.7
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2018,Mulheres,17.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2019,Total,15.3
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2019,Homens,11.0
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2019,Mulheres,19.3
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2022,Total,13.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2022,Homens,10.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Branca,2022,Mulheres,16.1
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2016,Total,12.5
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2016,Homens,8.4
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2016,Mulheres,16.9
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2017,Total,13.3
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2017,Homens,10.0
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2017,Mulheres,17.2
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2018,Total,15.5
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2018,Homens,11.3
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2018,Mulheres,19.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2019,Total,16.1
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2019,Homens,12.7
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2019,Mulheres,19.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2022,Total,13.3
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2022,Homens,9.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Preta,2022,Mulheres,16.5
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2016,Total,13.5
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2016,Homens,9.6
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2016,Mulheres,16.6
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2017,Total,13.0
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2017,Homens,9.2
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2017,Mulheres,16.1
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2018,Total,15.4
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2018,Homens,10.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2018,Mulheres,19.4
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2019,Total,17.1
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2019,Homens,11.8
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2019,Mulheres,21.6
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2022,Total,13.6
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2022,Homens,9.7
+9379,UF,12,Acre,AC,Norte,Cor ou raça,Parda,2022,Mulheres,16.7
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2016,Total,13.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2016,Homens,10.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2016,Mulheres,16.7
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2017,Total,11.7
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2017,Homens,8.4
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2017,Mulheres,14.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2018,Total,12.1
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2018,Homens,9.2
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2018,Mulheres,14.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2019,Total,14.3
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2019,Homens,10.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2019,Mulheres,17.4
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2022,Total,16.8
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2022,Homens,12.7
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Total,2022,Mulheres,20.4
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2016,Total,12.5
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2016,Homens,9.1
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2016,Mulheres,15.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2017,Total,11.3
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2017,Homens,8.1
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2017,Mulheres,13.7
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2018,Total,12.2
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2018,Homens,9.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2018,Mulheres,14.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2019,Total,13.7
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2019,Homens,10.1
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2019,Mulheres,16.3
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2022,Total,16.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2022,Homens,12.2
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Branca,2022,Mulheres,18.8
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2016,Total,12.8
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2016,Homens,9.4
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2016,Mulheres,16.4
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2017,Total,12.7
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2017,Homens,9.3
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2017,Mulheres,17.4
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2018,Total,12.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2018,Homens,9.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2018,Mulheres,15.5
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2019,Total,13.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2019,Homens,8.9
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2019,Mulheres,17.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2022,Total,17.3
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2022,Homens,13.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Preta,2022,Mulheres,22.1
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2016,Total,13.9
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2016,Homens,10.2
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2016,Mulheres,17.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2017,Total,11.8
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2017,Homens,8.4
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2017,Mulheres,14.7
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2018,Total,12.1
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2018,Homens,9.3
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2018,Mulheres,14.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2019,Total,14.5
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2019,Homens,10.9
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2019,Mulheres,17.6
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2022,Total,17.0
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2022,Homens,12.8
+9379,UF,13,Amazonas,AM,Norte,Cor ou raça,Parda,2022,Mulheres,20.6
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2016,Total,15.3
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2016,Homens,11.2
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2016,Mulheres,18.6
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2017,Total,13.4
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2017,Homens,9.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2017,Mulheres,16.4
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2018,Total,12.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2018,Homens,9.3
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2018,Mulheres,16.2
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2019,Total,15.3
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2019,Homens,11.3
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2019,Mulheres,18.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2022,Total,13.6
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2022,Homens,10.5
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Total,2022,Mulheres,16.5
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2016,Total,14.7
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2016,Homens,11.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2016,Mulheres,17.0
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2017,Total,13.3
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2017,Homens,9.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2017,Mulheres,15.8
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2018,Total,12.0
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2018,Homens,8.8
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2018,Mulheres,14.7
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2019,Total,14.5
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2019,Homens,10.6
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2019,Mulheres,17.5
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2022,Total,13.7
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2022,Homens,10.8
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Branca,2022,Mulheres,16.1
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2016,Total,14.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2016,Homens,10.2
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2016,Mulheres,19.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2017,Total,14.0
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2017,Homens,10.1
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2017,Mulheres,17.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2018,Total,13.5
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2018,Homens,10.5
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2018,Mulheres,16.6
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2019,Total,17.0
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2019,Homens,12.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2019,Mulheres,21.2
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2022,Total,12.4
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2022,Homens,9.6
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Preta,2022,Mulheres,15.8
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2016,Total,15.2
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2016,Homens,11.1
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2016,Mulheres,18.6
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2017,Total,13.5
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2017,Homens,10.0
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2017,Mulheres,16.3
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2018,Total,13.0
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2018,Homens,9.3
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2018,Mulheres,16.5
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2019,Total,15.2
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2019,Homens,11.1
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2019,Mulheres,18.9
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2022,Total,13.8
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2022,Homens,10.6
+9379,UF,14,Roraima,RR,Norte,Cor ou raça,Parda,2022,Mulheres,16.7
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2016,Total,17.0
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2016,Homens,11.0
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2016,Mulheres,21.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2017,Total,16.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2017,Homens,10.8
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2017,Mulheres,21.4
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2018,Total,17.3
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2018,Homens,11.7
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2018,Mulheres,22.1
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2019,Total,17.7
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2019,Homens,11.5
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2019,Mulheres,22.9
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2022,Total,16.5
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2022,Homens,11.1
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Total,2022,Mulheres,21.2
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2016,Total,17.8
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2016,Homens,11.5
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2016,Mulheres,22.0
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2017,Total,16.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2017,Homens,10.9
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2017,Mulheres,20.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2018,Total,16.4
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2018,Homens,11.2
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2018,Mulheres,20.5
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2019,Total,16.8
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2019,Homens,11.1
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2019,Mulheres,20.9
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2022,Total,16.2
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2022,Homens,11.5
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Branca,2022,Mulheres,19.8
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2016,Total,16.5
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2016,Homens,10.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2016,Mulheres,22.3
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2017,Total,17.0
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2017,Homens,11.3
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2017,Mulheres,22.2
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2018,Total,16.7
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2018,Homens,11.4
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2018,Mulheres,22.4
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2019,Total,17.2
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2019,Homens,11.3
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2019,Mulheres,22.9
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2022,Total,16.7
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2022,Homens,11.9
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Preta,2022,Mulheres,21.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2016,Total,16.8
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2016,Homens,11.0
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2016,Mulheres,21.4
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2017,Total,16.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2017,Homens,10.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2017,Mulheres,21.4
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2018,Total,17.6
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2018,Homens,11.8
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2018,Mulheres,22.4
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2019,Total,17.9
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2019,Homens,11.5
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2019,Mulheres,23.3
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2022,Total,16.5
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2022,Homens,10.9
+9379,UF,15,Pará,PA,Norte,Cor ou raça,Parda,2022,Mulheres,21.6
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2016,Total,13.3
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2016,Homens,9.9
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2016,Mulheres,16.3
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2017,Total,14.3
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2017,Homens,11.2
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2017,Mulheres,17.0
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2018,Total,13.1
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2018,Homens,10.4
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2018,Mulheres,15.6
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2019,Total,14.7
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2019,Homens,11.9
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2019,Mulheres,17.2
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2022,Total,13.6
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2022,Homens,10.8
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Total,2022,Mulheres,16.1
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2016,Total,13.0
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2016,Homens,9.3
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2016,Mulheres,15.5
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2017,Total,13.2
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2017,Homens,9.5
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2017,Mulheres,16.1
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2018,Total,12.7
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2018,Homens,10.8
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2018,Mulheres,14.3
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2019,Total,13.0
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2019,Homens,9.8
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2019,Mulheres,15.1
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2022,Total,14.4
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2022,Homens,11.1
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Branca,2022,Mulheres,16.6
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2016,Total,12.8
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2016,Homens,9.4
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2016,Mulheres,17.2
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2017,Total,13.7
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2017,Homens,11.6
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2017,Mulheres,15.9
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2018,Total,11.5
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2018,Homens,11.0
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2018,Mulheres,12.2
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2019,Total,16.7
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2019,Homens,13.1
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2019,Mulheres,19.9
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2022,Total,13.8
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2022,Homens,10.8
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Preta,2022,Mulheres,16.8
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2016,Total,13.4
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2016,Homens,10.2
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2016,Mulheres,16.3
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2017,Total,14.6
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2017,Homens,11.4
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2017,Mulheres,17.4
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2018,Total,13.3
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2018,Homens,10.3
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2018,Mulheres,16.1
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2019,Total,14.8
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2019,Homens,12.1
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2019,Mulheres,17.4
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2022,Total,13.4
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2022,Homens,10.7
+9379,UF,16,Amapá,AP,Norte,Cor ou raça,Parda,2022,Mulheres,15.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2016,Total,14.1
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2016,Homens,9.9
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2016,Mulheres,17.5
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2017,Total,14.5
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2017,Homens,10.2
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2017,Mulheres,18.3
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2018,Total,14.7
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2018,Homens,10.0
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2018,Mulheres,18.7
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2019,Total,15.2
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2019,Homens,10.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2019,Mulheres,19.2
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2022,Total,15.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2022,Homens,11.5
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Total,2022,Mulheres,19.7
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2016,Total,13.6
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2016,Homens,9.4
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2016,Mulheres,17.0
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2017,Total,14.0
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2017,Homens,10.0
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2017,Mulheres,17.6
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2018,Total,14.2
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2018,Homens,9.6
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2018,Mulheres,17.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2019,Total,15.0
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2019,Homens,11.1
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2019,Mulheres,18.5
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2022,Total,15.7
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2022,Homens,10.7
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Branca,2022,Mulheres,19.7
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2016,Total,13.7
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2016,Homens,9.9
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2016,Mulheres,17.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2017,Total,13.9
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2017,Homens,9.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2017,Mulheres,17.9
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2018,Total,15.0
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2018,Homens,10.2
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2018,Mulheres,19.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2019,Total,15.3
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2019,Homens,10.3
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2019,Mulheres,20.5
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2022,Total,15.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2022,Homens,12.2
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Preta,2022,Mulheres,20.1
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2016,Total,14.3
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2016,Homens,10.1
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2016,Mulheres,17.6
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2017,Total,14.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2017,Homens,10.3
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2017,Mulheres,18.5
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2018,Total,14.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2018,Homens,10.1
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2018,Mulheres,18.9
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2019,Total,15.3
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2019,Homens,10.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2019,Mulheres,19.2
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2022,Total,15.8
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2022,Homens,11.6
+9379,UF,17,Tocantins,TO,Norte,Cor ou raça,Parda,2022,Mulheres,19.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2016,Total,17.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2016,Homens,11.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2016,Mulheres,21.4
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2017,Total,17.3
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2017,Homens,11.2
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2017,Mulheres,21.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2018,Total,16.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2018,Homens,10.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2018,Mulheres,21.1
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2019,Total,16.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2019,Homens,10.8
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2019,Mulheres,20.8
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2022,Total,16.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2022,Homens,11.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Total,2022,Mulheres,20.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2016,Total,17.0
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2016,Homens,11.3
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2016,Mulheres,20.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2017,Total,16.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2017,Homens,10.9
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2017,Mulheres,20.4
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2018,Total,15.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2018,Homens,9.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2018,Mulheres,19.9
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2019,Total,16.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2019,Homens,10.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2019,Mulheres,20.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2022,Total,16.4
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2022,Homens,11.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Branca,2022,Mulheres,19.9
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2016,Total,17.2
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2016,Homens,11.2
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2016,Mulheres,21.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2017,Total,16.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2017,Homens,10.9
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2017,Mulheres,21.4
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2018,Total,16.3
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2018,Homens,10.9
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2018,Mulheres,21.1
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2019,Total,16.9
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2019,Homens,11.2
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2019,Mulheres,21.2
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2022,Total,16.1
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2022,Homens,10.8
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Preta,2022,Mulheres,20.4
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2016,Total,17.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2016,Homens,11.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2016,Mulheres,21.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2017,Total,17.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2017,Homens,11.3
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2017,Mulheres,21.8
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2018,Total,16.9
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2018,Homens,10.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2018,Mulheres,21.3
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2019,Total,16.5
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2019,Homens,10.7
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2019,Mulheres,20.8
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2022,Total,16.8
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2022,Homens,11.6
+9379,UF,21,Maranhão,MA,Nordeste,Cor ou raça,Parda,2022,Mulheres,20.8
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2016,Total,15.9
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2016,Homens,9.5
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2016,Mulheres,21.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2017,Total,15.9
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2017,Homens,9.3
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2017,Mulheres,21.2
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2018,Total,16.3
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2018,Homens,9.9
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2018,Mulheres,21.5
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2019,Total,17.2
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2019,Homens,10.8
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2019,Mulheres,22.6
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2022,Total,18.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2022,Homens,11.4
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Total,2022,Mulheres,23.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2016,Total,15.7
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2016,Homens,9.2
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2016,Mulheres,20.2
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2017,Total,15.3
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2017,Homens,8.7
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2017,Mulheres,19.6
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2018,Total,15.7
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2018,Homens,10.1
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2018,Mulheres,20.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2019,Total,16.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2019,Homens,9.7
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2019,Mulheres,20.7
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2022,Total,16.9
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2022,Homens,12.3
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Branca,2022,Mulheres,20.5
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2016,Total,16.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2016,Homens,10.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2016,Mulheres,21.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2017,Total,16.1
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2017,Homens,9.6
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2017,Mulheres,22.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2018,Total,16.6
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2018,Homens,10.1
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2018,Mulheres,21.8
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2019,Total,17.3
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2019,Homens,11.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2019,Mulheres,23.1
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2022,Total,17.9
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2022,Homens,13.1
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Preta,2022,Mulheres,22.4
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2016,Total,16.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2016,Homens,9.6
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2016,Mulheres,21.2
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2017,Total,16.1
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2017,Homens,9.4
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2017,Mulheres,21.6
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2018,Total,16.4
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2018,Homens,9.8
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2018,Mulheres,21.7
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2019,Total,17.5
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2019,Homens,11.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2019,Mulheres,23.0
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2022,Total,18.3
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2022,Homens,10.9
+9379,UF,22,Piauí,PI,Nordeste,Cor ou raça,Parda,2022,Mulheres,23.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2016,Total,17.6
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2016,Homens,11.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2016,Mulheres,21.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2017,Total,16.7
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2017,Homens,10.4
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2017,Mulheres,21.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2018,Total,15.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2018,Homens,10.0
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2018,Mulheres,20.4
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2019,Total,17.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2019,Homens,10.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2019,Mulheres,22.1
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2022,Total,19.5
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2022,Homens,12.6
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Total,2022,Mulheres,24.4
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2016,Total,17.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2016,Homens,11.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2016,Mulheres,20.6
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2017,Total,15.8
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2017,Homens,10.0
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2017,Mulheres,19.6
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2018,Total,15.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2018,Homens,9.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2018,Mulheres,19.0
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2019,Total,16.3
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2019,Homens,10.1
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2019,Mulheres,20.7
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2022,Total,18.5
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2022,Homens,12.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Branca,2022,Mulheres,23.0
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2016,Total,17.3
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2016,Homens,11.7
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2016,Mulheres,21.5
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2017,Total,17.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2017,Homens,12.3
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2017,Mulheres,23.0
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2018,Total,15.8
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2018,Homens,10.8
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2018,Mulheres,20.1
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2019,Total,17.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2019,Homens,10.8
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2019,Mulheres,22.4
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2022,Total,19.8
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2022,Homens,13.4
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Preta,2022,Mulheres,25.6
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2016,Total,17.8
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2016,Homens,11.1
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2016,Mulheres,22.4
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2017,Total,16.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2017,Homens,10.4
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2017,Mulheres,21.6
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2018,Total,16.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2018,Homens,9.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2018,Mulheres,20.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2019,Total,17.5
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2019,Homens,10.2
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2019,Mulheres,22.5
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2022,Total,19.9
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2022,Homens,12.8
+9379,UF,23,Ceará,CE,Nordeste,Cor ou raça,Parda,2022,Mulheres,24.9
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2016,Total,18.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2016,Homens,10.6
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2016,Mulheres,23.0
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2017,Total,17.2
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2017,Homens,10.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2017,Mulheres,22.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2018,Total,17.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2018,Homens,10.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2018,Mulheres,22.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2019,Total,16.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2019,Homens,9.5
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2019,Mulheres,21.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2022,Total,18.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2022,Homens,11.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Total,2022,Mulheres,24.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2016,Total,17.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2016,Homens,9.9
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2016,Mulheres,21.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2017,Total,16.6
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2017,Homens,9.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2017,Mulheres,21.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2018,Total,17.2
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2018,Homens,10.5
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2018,Mulheres,21.8
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2019,Total,15.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2019,Homens,9.2
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2019,Mulheres,20.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2022,Total,18.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2022,Homens,11.2
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Branca,2022,Mulheres,23.5
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2016,Total,19.6
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2016,Homens,12.2
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2016,Mulheres,25.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2017,Total,18.0
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2017,Homens,11.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2017,Mulheres,24.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2018,Total,17.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2018,Homens,10.5
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2018,Mulheres,24.6
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2019,Total,17.4
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2019,Homens,9.9
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2019,Mulheres,23.4
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2022,Total,18.6
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2022,Homens,11.6
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Preta,2022,Mulheres,24.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2016,Total,18.5
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2016,Homens,10.8
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2016,Mulheres,23.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2017,Total,17.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2017,Homens,10.2
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2017,Mulheres,22.4
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2018,Total,17.9
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2018,Homens,10.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2018,Mulheres,23.1
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2019,Total,17.3
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2019,Homens,9.7
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2019,Mulheres,22.4
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2022,Total,18.4
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2022,Homens,11.0
+9379,UF,24,Rio Grande do Norte,RN,Nordeste,Cor ou raça,Parda,2022,Mulheres,24.4
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2016,Total,18.2
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2016,Homens,11.3
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2016,Mulheres,23.0
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2017,Total,18.1
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2017,Homens,11.4
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2017,Mulheres,22.8
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2018,Total,18.1
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2018,Homens,10.9
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2018,Mulheres,23.6
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2019,Total,19.7
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2019,Homens,11.8
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2019,Mulheres,25.3
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2022,Total,18.9
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2022,Homens,12.4
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Total,2022,Mulheres,23.9
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2016,Total,17.5
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2016,Homens,10.5
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2016,Mulheres,22.0
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2017,Total,17.1
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2017,Homens,10.7
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2017,Mulheres,21.4
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2018,Total,17.0
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2018,Homens,10.1
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2018,Mulheres,22.0
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2019,Total,18.7
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2019,Homens,11.3
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2019,Mulheres,23.3
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2022,Total,18.9
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2022,Homens,12.5
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Branca,2022,Mulheres,23.6
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2016,Total,19.5
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2016,Homens,12.1
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2016,Mulheres,25.4
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2017,Total,16.6
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2017,Homens,10.7
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2017,Mulheres,20.9
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2018,Total,18.9
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2018,Homens,11.3
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2018,Mulheres,25.2
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2019,Total,19.5
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2019,Homens,12.2
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2019,Mulheres,25.9
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2022,Total,18.5
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2022,Homens,11.4
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Preta,2022,Mulheres,24.4
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2016,Total,18.5
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2016,Homens,11.6
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2016,Mulheres,23.4
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2017,Total,18.6
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2017,Homens,11.7
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2017,Mulheres,23.7
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2018,Total,18.6
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2018,Homens,11.2
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2018,Mulheres,24.1
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2019,Total,20.2
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2019,Homens,12.0
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2019,Mulheres,26.2
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2022,Total,19.0
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2022,Homens,12.6
+9379,UF,25,Paraíba,PB,Nordeste,Cor ou raça,Parda,2022,Mulheres,24.0
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2016,Total,18.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2016,Homens,12.3
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2016,Mulheres,22.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2017,Total,17.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2017,Homens,11.5
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2017,Mulheres,21.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2018,Total,18.1
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2018,Homens,10.9
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2018,Mulheres,23.1
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2019,Total,17.7
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2019,Homens,10.9
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2019,Mulheres,22.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2022,Total,19.3
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2022,Homens,12.7
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Total,2022,Mulheres,24.0
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2016,Total,18.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2016,Homens,12.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2016,Mulheres,22.3
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2017,Total,17.5
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2017,Homens,11.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2017,Mulheres,21.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2018,Total,17.2
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2018,Homens,10.3
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2018,Mulheres,21.8
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2019,Total,17.3
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2019,Homens,10.9
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2019,Mulheres,21.5
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2022,Total,19.0
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2022,Homens,12.3
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Branca,2022,Mulheres,23.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2016,Total,18.5
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2016,Homens,12.0
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2016,Mulheres,23.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2017,Total,17.0
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2017,Homens,12.0
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2017,Mulheres,20.7
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2018,Total,18.8
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2018,Homens,12.2
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2018,Mulheres,23.7
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2019,Total,18.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2019,Homens,12.0
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2019,Mulheres,24.2
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2022,Total,19.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2022,Homens,15.1
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Preta,2022,Mulheres,23.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2016,Total,18.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2016,Homens,12.1
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2016,Mulheres,22.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2017,Total,17.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2017,Homens,11.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2017,Mulheres,21.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2018,Total,18.5
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2018,Homens,11.0
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2018,Mulheres,23.7
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2019,Total,17.7
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2019,Homens,10.7
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2019,Mulheres,22.6
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2022,Total,19.4
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2022,Homens,12.5
+9379,UF,26,Pernambuco,PE,Nordeste,Cor ou raça,Parda,2022,Mulheres,24.4
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2016,Total,17.5
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2016,Homens,11.0
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2016,Mulheres,21.6
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2017,Total,17.5
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2017,Homens,12.1
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2017,Mulheres,21.2
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2018,Total,17.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2018,Homens,11.6
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2018,Mulheres,21.4
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2019,Total,17.5
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2019,Homens,11.7
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2019,Mulheres,21.8
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2022,Total,20.2
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2022,Homens,13.0
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Total,2022,Mulheres,25.4
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2016,Total,17.5
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2016,Homens,11.4
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2016,Mulheres,21.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2017,Total,18.2
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2017,Homens,12.9
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2017,Mulheres,21.6
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2018,Total,17.4
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2018,Homens,11.2
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2018,Mulheres,21.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2019,Total,17.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2019,Homens,11.7
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2019,Mulheres,21.2
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2022,Total,19.2
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2022,Homens,12.1
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Branca,2022,Mulheres,24.1
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2016,Total,20.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2016,Homens,12.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2016,Mulheres,26.4
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2017,Total,17.6
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2017,Homens,12.9
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2017,Mulheres,21.9
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2018,Total,18.4
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2018,Homens,12.7
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2018,Mulheres,22.9
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2019,Total,18.6
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2019,Homens,12.5
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2019,Mulheres,23.8
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2022,Total,20.5
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2022,Homens,13.8
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Preta,2022,Mulheres,26.6
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2016,Total,17.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2016,Homens,10.8
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2016,Mulheres,21.4
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2017,Total,17.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2017,Homens,11.8
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2017,Mulheres,21.1
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2018,Total,17.2
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2018,Homens,11.7
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2018,Mulheres,21.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2019,Total,17.5
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2019,Homens,11.6
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2019,Mulheres,21.7
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2022,Total,20.6
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2022,Homens,13.3
+9379,UF,27,Alagoas,AL,Nordeste,Cor ou raça,Parda,2022,Mulheres,25.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2016,Total,18.2
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2016,Homens,11.0
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2016,Mulheres,22.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2017,Total,18.2
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2017,Homens,11.0
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2017,Mulheres,23.3
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2018,Total,17.9
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2018,Homens,9.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2018,Mulheres,23.4
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2019,Total,17.4
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2019,Homens,10.1
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2019,Mulheres,22.6
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2022,Total,18.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2022,Homens,11.2
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Total,2022,Mulheres,24.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2016,Total,17.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2016,Homens,10.5
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2016,Mulheres,22.1
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2017,Total,17.5
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2017,Homens,10.2
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2017,Mulheres,22.4
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2018,Total,17.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2018,Homens,9.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2018,Mulheres,23.4
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2019,Total,16.6
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2019,Homens,9.3
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2019,Mulheres,21.5
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2022,Total,17.3
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2022,Homens,10.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Branca,2022,Mulheres,21.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2016,Total,18.4
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2016,Homens,11.4
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2016,Mulheres,23.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2017,Total,18.3
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2017,Homens,12.2
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2017,Mulheres,23.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2018,Total,16.3
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2018,Homens,9.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2018,Mulheres,21.1
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2019,Total,16.0
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2019,Homens,10.9
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2019,Mulheres,19.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2022,Total,18.1
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2022,Homens,11.0
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Preta,2022,Mulheres,24.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2016,Total,18.2
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2016,Homens,11.1
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2016,Mulheres,22.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2017,Total,18.3
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2017,Homens,11.0
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2017,Mulheres,23.4
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2018,Total,18.1
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2018,Homens,9.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2018,Mulheres,23.7
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2019,Total,17.8
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2019,Homens,10.2
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2019,Mulheres,23.2
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2022,Total,19.6
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2022,Homens,11.3
+9379,UF,28,Sergipe,SE,Nordeste,Cor ou raça,Parda,2022,Mulheres,25.8
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2016,Total,16.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2016,Homens,10.3
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2016,Mulheres,21.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2017,Total,17.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2017,Homens,10.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2017,Mulheres,22.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2018,Total,16.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2018,Homens,10.0
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2018,Mulheres,22.3
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2019,Total,16.3
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2019,Homens,9.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2019,Mulheres,21.2
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2022,Total,17.8
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2022,Homens,10.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Total,2022,Mulheres,23.1
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2016,Total,16.7
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2016,Homens,10.4
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2016,Mulheres,20.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2017,Total,17.4
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2017,Homens,10.5
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2017,Mulheres,22.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2018,Total,16.4
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2018,Homens,9.4
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2018,Mulheres,21.7
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2019,Total,15.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2019,Homens,9.3
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2019,Mulheres,21.0
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2022,Total,17.5
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2022,Homens,10.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Branca,2022,Mulheres,22.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2016,Total,16.4
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2016,Homens,9.8
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2016,Mulheres,21.2
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2017,Total,17.7
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2017,Homens,10.7
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2017,Mulheres,23.0
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2018,Total,16.5
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2018,Homens,10.3
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2018,Mulheres,21.7
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2019,Total,15.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2019,Homens,9.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2019,Mulheres,20.4
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2022,Total,17.8
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2022,Homens,11.1
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Preta,2022,Mulheres,23.2
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2016,Total,17.0
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2016,Homens,10.3
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2016,Mulheres,22.0
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2017,Total,17.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2017,Homens,10.5
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2017,Mulheres,23.0
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2018,Total,17.2
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2018,Homens,10.0
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2018,Mulheres,22.7
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2019,Total,16.6
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2019,Homens,10.1
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2019,Mulheres,21.5
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2022,Total,18.0
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2022,Homens,10.9
+9379,UF,29,Bahia,BA,Nordeste,Cor ou raça,Parda,2022,Mulheres,23.2
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2016,Total,17.2
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2016,Homens,10.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2016,Mulheres,22.4
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2017,Total,17.7
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2017,Homens,11.0
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2017,Mulheres,23.1
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2018,Total,17.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2018,Homens,11.0
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2018,Mulheres,23.4
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2019,Total,17.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2019,Homens,11.1
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2019,Mulheres,23.4
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2022,Total,17.5
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2022,Homens,11.5
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Total,2022,Mulheres,22.7
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2016,Total,17.2
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2016,Homens,11.1
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2016,Mulheres,22.1
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2017,Total,17.3
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2017,Homens,10.9
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2017,Mulheres,22.3
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2018,Total,17.6
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2018,Homens,10.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2018,Mulheres,23.2
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2019,Total,17.4
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2019,Homens,10.9
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2019,Mulheres,22.6
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2022,Total,17.2
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2022,Homens,11.3
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Branca,2022,Mulheres,22.2
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2016,Total,18.0
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2016,Homens,10.9
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2016,Mulheres,23.7
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2017,Total,18.1
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2017,Homens,11.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2017,Mulheres,23.4
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2018,Total,18.2
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2018,Homens,12.0
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2018,Mulheres,23.5
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2019,Total,18.6
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2019,Homens,11.7
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2019,Mulheres,24.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2022,Total,17.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2022,Homens,11.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Preta,2022,Mulheres,23.2
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2016,Total,17.0
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2016,Homens,10.6
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2016,Mulheres,22.3
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2017,Total,17.9
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2017,Homens,10.9
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2017,Mulheres,23.7
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2018,Total,17.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2018,Homens,10.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2018,Mulheres,23.6
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2019,Total,17.8
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2019,Homens,11.0
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2019,Mulheres,23.6
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2022,Total,17.7
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2022,Homens,11.6
+9379,UF,31,Minas Gerais,MG,Sudeste,Cor ou raça,Parda,2022,Mulheres,23.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2016,Total,16.4
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2016,Homens,11.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2016,Mulheres,20.3
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2017,Total,17.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2017,Homens,12.2
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2017,Mulheres,21.9
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2018,Total,18.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2018,Homens,12.7
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2018,Mulheres,22.7
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2019,Total,16.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2019,Homens,11.3
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2019,Mulheres,21.0
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2022,Total,17.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2022,Homens,11.9
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Total,2022,Mulheres,21.5
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2016,Total,16.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2016,Homens,11.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2016,Mulheres,20.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2017,Total,17.4
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2017,Homens,12.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2017,Mulheres,21.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2018,Total,18.2
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2018,Homens,12.9
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2018,Mulheres,22.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2019,Total,16.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2019,Homens,11.2
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2019,Mulheres,20.9
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2022,Total,16.5
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2022,Homens,11.8
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Branca,2022,Mulheres,20.5
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2016,Total,15.9
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2016,Homens,10.9
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2016,Mulheres,19.8
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2017,Total,18.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2017,Homens,13.5
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2017,Mulheres,22.8
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2018,Total,17.9
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2018,Homens,12.8
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2018,Mulheres,22.7
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2019,Total,16.8
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2019,Homens,11.9
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2019,Mulheres,21.3
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2022,Total,16.2
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2022,Homens,12.0
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Preta,2022,Mulheres,20.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2016,Total,16.3
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2016,Homens,11.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2016,Mulheres,20.2
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2017,Total,17.5
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2017,Homens,12.0
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2017,Mulheres,22.0
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2018,Total,18.1
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2018,Homens,12.6
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2018,Mulheres,22.7
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2019,Total,16.5
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2019,Homens,11.2
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2019,Mulheres,21.0
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2022,Total,17.8
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2022,Homens,12.0
+9379,UF,32,Espírito Santo,ES,Sudeste,Cor ou raça,Parda,2022,Mulheres,22.8
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2016,Total,17.2
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2016,Homens,12.5
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2016,Mulheres,20.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2017,Total,16.4
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2017,Homens,11.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2017,Mulheres,20.0
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2018,Total,17.4
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2018,Homens,12.5
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2018,Mulheres,21.4
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2019,Total,16.7
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2019,Homens,11.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2019,Mulheres,20.6
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2022,Total,16.7
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2022,Homens,12.5
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Total,2022,Mulheres,20.1
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2016,Total,17.3
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2016,Homens,12.4
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2016,Mulheres,20.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2017,Total,16.3
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2017,Homens,11.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2017,Mulheres,19.7
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2018,Total,16.8
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2018,Homens,12.1
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2018,Mulheres,20.4
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2019,Total,16.3
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2019,Homens,11.6
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2019,Mulheres,20.0
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2022,Total,16.1
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2022,Homens,12.0
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Branca,2022,Mulheres,19.2
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2016,Total,16.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2016,Homens,12.8
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2016,Mulheres,20.3
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2017,Total,17.1
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2017,Homens,12.4
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2017,Mulheres,20.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2018,Total,18.0
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2018,Homens,12.6
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2018,Mulheres,22.4
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2019,Total,16.8
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2019,Homens,12.0
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2019,Mulheres,20.7
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2022,Total,17.3
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2022,Homens,12.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Preta,2022,Mulheres,20.7
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2016,Total,17.3
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2016,Homens,12.4
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2016,Mulheres,21.1
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2017,Total,16.3
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2017,Homens,11.8
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2017,Mulheres,20.1
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2018,Total,17.8
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2018,Homens,12.8
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2018,Mulheres,22.1
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2019,Total,17.0
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2019,Homens,12.2
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2019,Mulheres,21.3
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2022,Total,17.2
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2022,Homens,12.9
+9379,UF,33,Rio de Janeiro,RJ,Sudeste,Cor ou raça,Parda,2022,Mulheres,21.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2016,Total,17.0
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2016,Homens,11.2
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2016,Mulheres,21.6
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2017,Total,16.6
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2017,Homens,10.9
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2017,Mulheres,21.3
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2018,Total,17.2
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2018,Homens,11.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2018,Mulheres,22.3
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2019,Total,17.4
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2019,Homens,11.2
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2019,Mulheres,22.6
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2022,Total,17.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2022,Homens,12.2
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Total,2022,Mulheres,21.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2016,Total,16.8
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2016,Homens,11.0
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2016,Mulheres,21.3
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2017,Total,16.4
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2017,Homens,10.8
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2017,Mulheres,20.8
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2018,Total,17.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2018,Homens,11.0
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2018,Mulheres,21.9
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2019,Total,17.0
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2019,Homens,11.0
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2019,Mulheres,21.8
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2022,Total,17.0
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2022,Homens,12.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Branca,2022,Mulheres,20.8
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2016,Total,16.9
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2016,Homens,12.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2016,Mulheres,21.2
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2017,Total,17.4
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2017,Homens,12.4
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2017,Mulheres,22.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2018,Total,17.7
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2018,Homens,11.6
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2018,Mulheres,23.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2019,Total,17.3
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2019,Homens,11.4
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2019,Mulheres,22.7
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2022,Total,16.6
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2022,Homens,12.0
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Preta,2022,Mulheres,20.9
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2016,Total,17.5
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2016,Homens,11.6
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2016,Mulheres,22.4
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2017,Total,17.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2017,Homens,10.8
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2017,Mulheres,22.4
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2018,Total,17.5
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2018,Homens,11.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2018,Mulheres,22.8
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2019,Total,18.2
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2019,Homens,11.5
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2019,Mulheres,24.1
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2022,Total,17.4
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2022,Homens,12.3
+9379,UF,35,São Paulo,SP,Sudeste,Cor ou raça,Parda,2022,Mulheres,22.0
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2016,Total,15.7
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2016,Homens,10.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2016,Mulheres,20.0
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2017,Total,15.6
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2017,Homens,10.5
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2017,Mulheres,19.8
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2018,Total,16.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2018,Homens,10.9
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2018,Mulheres,21.1
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2019,Total,16.5
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2019,Homens,11.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2019,Mulheres,20.9
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2022,Total,15.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2022,Homens,11.1
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Total,2022,Mulheres,19.0
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2016,Total,15.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2016,Homens,10.3
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2016,Mulheres,19.5
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2017,Total,15.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2017,Homens,10.5
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2017,Mulheres,19.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2018,Total,16.3
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2018,Homens,10.9
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2018,Mulheres,20.7
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2019,Total,16.2
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2019,Homens,11.1
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2019,Mulheres,20.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2022,Total,15.5
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2022,Homens,11.2
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Branca,2022,Mulheres,18.9
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2016,Total,15.6
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2016,Homens,10.7
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2016,Mulheres,19.9
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2017,Total,15.1
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2017,Homens,10.2
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2017,Mulheres,19.6
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2018,Total,17.0
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2018,Homens,10.9
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2018,Mulheres,23.0
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2019,Total,16.5
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2019,Homens,12.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2019,Mulheres,21.0
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2022,Total,15.2
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2022,Homens,11.1
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Preta,2022,Mulheres,19.6
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2016,Total,16.5
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2016,Homens,10.7
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2016,Mulheres,21.1
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2017,Total,16.0
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2017,Homens,10.3
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2017,Mulheres,20.9
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2018,Total,16.6
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2018,Homens,10.8
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2018,Mulheres,21.6
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2019,Total,17.4
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2019,Homens,11.7
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2019,Mulheres,22.2
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2022,Total,15.3
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2022,Homens,10.8
+9379,UF,41,Paraná,PR,Sul,Cor ou raça,Parda,2022,Mulheres,19.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2016,Total,15.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2016,Homens,11.1
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2016,Mulheres,18.8
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2017,Total,15.8
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2017,Homens,11.4
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2017,Mulheres,19.8
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2018,Total,15.6
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2018,Homens,11.2
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2018,Mulheres,19.6
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2019,Total,15.8
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2019,Homens,11.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2019,Mulheres,19.7
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2022,Total,16.0
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2022,Homens,12.2
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Total,2022,Mulheres,19.5
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2016,Total,15.4
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2016,Homens,11.2
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2016,Mulheres,18.9
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2017,Total,15.8
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2017,Homens,11.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2017,Mulheres,19.7
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2018,Total,15.5
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2018,Homens,11.1
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2018,Mulheres,19.4
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2019,Total,15.7
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2019,Homens,11.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2019,Mulheres,19.6
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2022,Total,16.1
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2022,Homens,12.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Branca,2022,Mulheres,19.4
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2016,Total,14.4
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2016,Homens,10.5
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2016,Mulheres,17.9
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2017,Total,15.1
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2017,Homens,11.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2017,Mulheres,19.2
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2018,Total,17.1
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2018,Homens,12.1
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2018,Mulheres,22.5
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2019,Total,15.1
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2019,Homens,11.5
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2019,Mulheres,18.8
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2022,Total,16.0
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2022,Homens,13.1
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Preta,2022,Mulheres,19.2
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2016,Total,14.9
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2016,Homens,10.6
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2016,Mulheres,18.7
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2017,Total,16.2
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2017,Homens,11.9
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2017,Mulheres,20.4
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2018,Total,15.9
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2018,Homens,11.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2018,Mulheres,20.3
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2019,Total,16.2
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2019,Homens,11.5
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2019,Mulheres,20.7
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2022,Total,15.5
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2022,Homens,11.2
+9379,UF,42,Santa Catarina,SC,Sul,Cor ou raça,Parda,2022,Mulheres,19.7
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2016,Total,16.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2016,Homens,11.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2016,Mulheres,20.7
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2017,Total,16.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2017,Homens,11.7
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2017,Mulheres,20.6
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2018,Total,16.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2018,Homens,11.6
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2018,Mulheres,20.6
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2019,Total,16.1
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2019,Homens,11.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2019,Mulheres,20.1
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2022,Total,15.4
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2022,Homens,11.3
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Total,2022,Mulheres,18.9
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2016,Total,16.4
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2016,Homens,11.4
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2016,Mulheres,20.6
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2017,Total,16.4
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2017,Homens,11.7
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2017,Mulheres,20.4
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2018,Total,16.3
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2018,Homens,11.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2018,Mulheres,20.3
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2019,Total,15.9
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2019,Homens,11.3
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2019,Mulheres,19.8
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2022,Total,15.3
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2022,Homens,11.3
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Branca,2022,Mulheres,18.9
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2016,Total,17.8
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2016,Homens,13.1
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2016,Mulheres,21.9
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2017,Total,16.3
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2017,Homens,12.2
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2017,Mulheres,19.7
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2018,Total,17.1
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2018,Homens,11.9
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2018,Mulheres,21.2
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2019,Total,17.4
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2019,Homens,12.6
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2019,Mulheres,21.8
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2022,Total,15.1
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2022,Homens,11.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Preta,2022,Mulheres,18.2
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2016,Total,16.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2016,Homens,11.3
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2016,Mulheres,21.2
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2017,Total,17.0
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2017,Homens,11.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2017,Mulheres,22.0
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2018,Total,17.2
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2018,Homens,12.2
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2018,Mulheres,21.8
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2019,Total,16.8
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2019,Homens,11.9
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2019,Mulheres,21.2
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2022,Total,15.6
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2022,Homens,11.5
+9379,UF,43,Rio Grande do Sul,RS,Sul,Cor ou raça,Parda,2022,Mulheres,19.5
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2016,Total,13.8
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2016,Homens,8.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2016,Mulheres,18.0
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2017,Total,14.1
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2017,Homens,8.9
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2017,Mulheres,18.6
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2018,Total,14.3
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2018,Homens,9.1
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2018,Mulheres,18.8
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2019,Total,15.1
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2019,Homens,10.0
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2019,Mulheres,19.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2022,Total,15.3
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2022,Homens,10.8
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Total,2022,Mulheres,19.2
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2016,Total,14.1
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2016,Homens,8.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2016,Mulheres,18.4
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2017,Total,14.3
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2017,Homens,8.8
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2017,Mulheres,18.8
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2018,Total,14.1
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2018,Homens,9.3
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2018,Mulheres,18.2
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2019,Total,14.3
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2019,Homens,9.5
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2019,Mulheres,18.3
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2022,Total,14.9
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2022,Homens,10.4
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Branca,2022,Mulheres,18.6
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2016,Total,13.5
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2016,Homens,7.8
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2016,Mulheres,18.4
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2017,Total,12.9
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2017,Homens,9.0
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2017,Mulheres,16.4
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2018,Total,13.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2018,Homens,8.0
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2018,Mulheres,19.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2019,Total,15.4
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2019,Homens,9.9
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2019,Mulheres,21.0
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2022,Total,15.4
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2022,Homens,12.4
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Preta,2022,Mulheres,18.2
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2016,Total,13.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2016,Homens,8.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2016,Mulheres,17.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2017,Total,14.1
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2017,Homens,9.0
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2017,Mulheres,18.7
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2018,Total,14.5
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2018,Homens,9.0
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2018,Mulheres,19.3
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2019,Total,15.8
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2019,Homens,10.3
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2019,Mulheres,20.8
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2022,Total,15.6
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2022,Homens,10.9
+9379,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Cor ou raça,Parda,2022,Mulheres,19.7
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2016,Total,14.1
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2016,Homens,9.3
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2016,Mulheres,18.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2017,Total,14.7
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2017,Homens,9.9
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2017,Mulheres,18.9
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2018,Total,15.2
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2018,Homens,9.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2018,Mulheres,19.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2019,Total,14.5
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2019,Homens,9.4
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2019,Mulheres,18.9
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2022,Total,14.2
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2022,Homens,9.3
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Total,2022,Mulheres,18.4
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2016,Total,13.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2016,Homens,8.9
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2016,Mulheres,17.7
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2017,Total,14.6
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2017,Homens,9.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2017,Mulheres,18.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2018,Total,14.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2018,Homens,9.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2018,Mulheres,19.5
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2019,Total,13.6
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2019,Homens,9.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2019,Mulheres,17.7
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2022,Total,14.1
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2022,Homens,9.5
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Branca,2022,Mulheres,17.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2016,Total,14.6
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2016,Homens,9.6
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2016,Mulheres,18.9
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2017,Total,14.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2017,Homens,10.7
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2017,Mulheres,18.5
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2018,Total,15.2
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2018,Homens,10.2
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2018,Mulheres,19.6
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2019,Total,14.3
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2019,Homens,10.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2019,Mulheres,18.4
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2022,Total,14.3
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2022,Homens,10.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Preta,2022,Mulheres,18.4
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2016,Total,14.2
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2016,Homens,9.5
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2016,Mulheres,18.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2017,Total,14.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2017,Homens,9.8
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2017,Mulheres,19.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2018,Total,15.4
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2018,Homens,10.1
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2018,Mulheres,20.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2019,Total,15.0
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2019,Homens,9.5
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2019,Mulheres,19.5
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2022,Total,14.3
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2022,Homens,9.1
+9379,UF,51,Mato Grosso,MT,Centro-Oeste,Cor ou raça,Parda,2022,Mulheres,18.7
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2016,Total,15.4
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2016,Homens,10.2
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2016,Mulheres,19.5
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2017,Total,13.9
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2017,Homens,8.8
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2017,Mulheres,18.3
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2018,Total,13.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2018,Homens,8.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2018,Mulheres,17.8
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2019,Total,14.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2019,Homens,9.3
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2019,Mulheres,19.1
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2022,Total,15.2
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2022,Homens,10.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Total,2022,Mulheres,19.2
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2016,Total,15.3
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2016,Homens,9.9
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2016,Mulheres,19.3
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2017,Total,14.0
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2017,Homens,8.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2017,Mulheres,18.3
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2018,Total,13.7
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2018,Homens,8.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2018,Mulheres,17.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2019,Total,14.7
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2019,Homens,9.5
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2019,Mulheres,18.8
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2022,Total,15.0
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2022,Homens,10.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Branca,2022,Mulheres,18.4
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2016,Total,15.5
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2016,Homens,11.1
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2016,Mulheres,19.5
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2017,Total,14.1
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2017,Homens,9.3
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2017,Mulheres,18.8
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2018,Total,13.8
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2018,Homens,8.9
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2018,Mulheres,18.5
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2019,Total,14.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2019,Homens,9.8
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2019,Mulheres,19.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2022,Total,15.1
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2022,Homens,10.9
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Preta,2022,Mulheres,19.4
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2016,Total,15.5
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2016,Homens,10.3
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2016,Mulheres,19.7
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2017,Total,13.9
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2017,Homens,8.8
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2017,Mulheres,18.2
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2018,Total,13.4
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2018,Homens,8.6
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2018,Mulheres,17.7
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2019,Total,14.5
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2019,Homens,9.1
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2019,Mulheres,19.2
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2022,Total,15.3
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2022,Homens,10.5
+9379,UF,52,Goiás,GO,Centro-Oeste,Cor ou raça,Parda,2022,Mulheres,19.6
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2016,Total,15.9
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2016,Homens,11.3
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2016,Mulheres,19.7
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2017,Total,15.6
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2017,Homens,11.2
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2017,Mulheres,19.3
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2018,Total,15.9
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2018,Homens,11.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2018,Mulheres,19.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2019,Total,15.2
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2019,Homens,10.9
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2019,Mulheres,18.9
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2022,Total,15.1
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2022,Homens,10.8
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Total,2022,Mulheres,18.7
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2016,Total,15.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2016,Homens,11.0
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2016,Mulheres,19.0
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2017,Total,16.0
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2017,Homens,11.1
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2017,Mulheres,19.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2018,Total,15.1
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2018,Homens,10.7
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2018,Mulheres,18.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2019,Total,14.7
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2019,Homens,10.8
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2019,Mulheres,17.8
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2022,Total,15.1
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2022,Homens,11.4
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Branca,2022,Mulheres,17.7
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2016,Total,16.6
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2016,Homens,12.1
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2016,Mulheres,20.6
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2017,Total,15.9
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2017,Homens,10.8
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2017,Mulheres,21.0
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2018,Total,15.9
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2018,Homens,11.9
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2018,Mulheres,19.8
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2019,Total,15.6
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2019,Homens,11.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2019,Mulheres,19.4
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2022,Total,13.7
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2022,Homens,10.2
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Preta,2022,Mulheres,17.3
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2016,Total,16.1
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2016,Homens,11.2
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2016,Mulheres,20.0
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2017,Total,15.4
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2017,Homens,11.2
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2017,Mulheres,18.8
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2018,Total,16.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2018,Homens,12.0
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2018,Mulheres,20.3
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2019,Total,15.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2019,Homens,10.9
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2019,Mulheres,19.6
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2022,Total,15.5
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2022,Homens,10.6
+9379,UF,53,Distrito Federal,DF,Centro-Oeste,Cor ou raça,Parda,2022,Mulheres,19.9
